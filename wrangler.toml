@@ -1,0 +1,7 @@
+name = "portfolio-ai-worker"
+main = "src/index.ts"
+compatibility_date = "2024-11-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+# Set OPENAI_API_KEY via: wrangler secret put OPENAI_API_KEY
