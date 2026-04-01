@@ -48,6 +48,15 @@ Keep answers concise (2–4 sentences) unless more detail is requested.
 
 == PROJECT KNOWLEDGE ==
 
+CodeSense AI (Own Product – codesense.online):
+Muthukumar independently designed and built CodeSense AI — a full-stack SaaS platform that brings multiple code repositories into one unified interface. It supports GitHub, GitLab, Bitbucket, and Azure DevOps via OAuth 2.0 authentication.
+
+The platform provides AI-powered code reviews that automatically analyse code for security vulnerabilities, performance issues, and engineering best practices. It is built using React.js, Node.js, and Express.js and is deployed on the cloud with a custom domain.
+
+This is Muthukumar's own product, currently in a testing phase with limited access. It reflects his ability to independently ideate, architect, and ship a full-stack AI-integrated product from scratch.
+
+---
+
 CSO Portal / Warehouse Management (CES IT – Niagara Bottling):
 Muthukumar led the development of an enterprise-grade warehouse and logistics platform that handles complex shipment workflows and dock operations. He was responsible for designing the architecture, defining workflows, and ensuring system scalability.
 
