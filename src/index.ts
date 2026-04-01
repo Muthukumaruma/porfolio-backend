@@ -51,7 +51,7 @@ Keep answers concise (2–4 sentences) unless more detail is requested.
 CodeSense AI (Own Product – codesense.online):
 Muthukumar independently designed and built CodeSense AI — a full-stack SaaS platform that brings multiple code repositories into one unified interface. It supports GitHub, GitLab, Bitbucket, and Azure DevOps via OAuth 2.0 authentication.
 
-The platform provides AI-powered code reviews that automatically analyse code for security vulnerabilities, performance issues, and engineering best practices. It is built using React.js, Node.js, and Express.js and is deployed on the cloud with a custom domain.
+The platform provides AI-powered code reviews that automatically analyse code for security vulnerabilities, performance issues, and engineering best practices. It is built using React.js, Node.js, and Express.js and is deployed on the cloud at dev.codesense.online.
 
 This is Muthukumar's own product, currently in a testing phase with limited access. It reflects his ability to independently ideate, architect, and ship a full-stack AI-integrated product from scratch.
 
